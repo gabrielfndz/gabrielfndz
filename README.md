@@ -33,6 +33,6 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/dev-gabriel-oliveira/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
   </a>
 </div>

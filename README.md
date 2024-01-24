@@ -1,7 +1,7 @@
   ## Olá 👋
   
   <div align="justify">
-    Sou o Gabriel, conheci a área de desenvolvimento web em 2020 e no mesmo ano ingressei no meu primeiro trabalho como desenvolvedor web utilizando principalmente ASP.NET Core, em janeiro de 2021 decidi fazer uma pausa na carreira e ingressar no curso de desenvolvimento web da <a href="https://www.betrybe.com/">Trybe</a> para focar no conhecimento de novas linguagens e ficar por dentro das últimas tecnologias do mercado. No decorrer do curso, me identifiquei com o desenvolvimento utilizando Node.Js e desde então sigo focando nessa linguagem e me especializando para ingressar novamente ao mercado.
+    Sou o Gabriel, conheci a área de desenvolvimento web em 2020 e no mesmo ano ingressei no meu primeiro trabalho como desenvolvedor web utilizando principalmente ASP.NET Core, em janeiro de 2021 decidi fazer uma pausa na carreira e ingressar no curso de desenvolvimento web da <a href="https://www.betrybe.com/">Trybe</a> para focar no conhecimento de novas linguagens e ficar por dentro das últimas tecnologias do mercado. 
   </div>
   
   # Algumas coisas sobre mim

@@ -1,7 +1,8 @@
   ## Olá 👋
   
   <div align="justify">
-    Sou o Gabriel, conheci a área de desenvolvimento web em 2020 e no mesmo ano ingressei no meu primeiro trabalho como desenvolvedor web utilizando principalmente ASP.NET Core, em janeiro de 2021 decidi fazer uma pausa na carreira e ingressar no curso de desenvolvimento web da <a href="https://www.betrybe.com/">Trybe</a> para focar no conhecimento de novas linguagens e ficar por dentro das últimas tecnologias do mercado. 
+    Sou o Gabriel, desenvolvedor full-stack especializado em .NET e C# desde 2020, com experiência em SQL Server, React.Js,
+    Node.Js e metodologias ágeis (Scrum e Kanban). Apaixonado por criar soluções eficientes e escaláveis. 
   </div>
   
   # Algumas coisas sobre mim
@@ -16,16 +17,17 @@
 
   ## Tecnologias e Ferramentas
 <div style="display: inline_block margin-bottom: 10px"><br>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img align="center" alt="Razor" src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=razor&logoColor=white">
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="Git"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
   <img align="center" alt="Html"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="MySql"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Express"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img align="center" alt="Docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Sequelize"  src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 

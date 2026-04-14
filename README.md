@@ -5,11 +5,7 @@
     Node.Js e metodologias ágeis (Scrum e Kanban). 
   </div>
   
-  # Algumas coisas sobre mim
-
-
-
-
+ 
 
   ## Tecnologias e Ferramentas
 <div style="display: inline_block margin-bottom: 10px"><br>

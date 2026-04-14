@@ -1,17 +1,13 @@
   ## Olá 👋
   
   <div align="justify">
-    Sou o Gabriel, desenvolvedor full-stack especializado em .NET e C# desde 2020, com experiência em SQL Server, React.Js,
-    Node.Js e metodologias ágeis (Scrum e Kanban). Apaixonado por criar soluções eficientes e escaláveis. 
+    Sou o Gabriel, desenvolvedor full-stack, com experiência em .Net, Angular, SQL Server, React.Js,
+    Node.Js e metodologias ágeis (Scrum e Kanban). 
   </div>
   
   # Algumas coisas sobre mim
 
-<ul align="justify">
-  <li>🏎 Sou fã de carros e principalmente de <strong>Formula 1</strong>. Acompanho todo o cronograma de corridas e fico por dentro do que acontece no paddock.</li>
-  <li>🎮 Adoro <strong>jogos</strong>, no meu tempo livre jogo principalmente <strong>Counter-Strike</strong> e sou entusiasta de todo cenário de e-sports, seja brasileiro ou de fora.</li>
-  <li>💻 Atualmente estou focado em aprender mais a respeito de <strong>back-end</strong>. No início da minha trajetória em back, compreendi sobre o <strong>Node.Js</strong> e seu famoso framework, o <strong>Express</strong>.
-</ul>
+
 
 
 
